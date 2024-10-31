@@ -8,14 +8,9 @@ JavaScript Piano
 
 A simple, interactive piano built with JavaScript and CSS.
 
-<br>
-
 ## Preview
 
-
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/html/index.html
-<br>
-
 
 ## Getting Started
 
@@ -24,8 +19,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/ht
   ```sh
   git clone https://github.com/AliDeli80/Piano.git
   ```
-
-
 
 ## How to Play
 
