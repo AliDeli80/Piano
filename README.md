@@ -16,10 +16,6 @@ A simple, interactive piano built with JavaScript and CSS.
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/html/index.html
 <br>
 
-## Feature
-
-- Polyphony: Allow multiple notes to be played simultaneously.
-
 
 ## Getting Started
 
@@ -55,6 +51,10 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/ht
 - Plays the corresponding sound when a key is pressed.
 - Adds visual feedback, such as key highlighting and animation, to indicate which key is being played.
 - Uses JavaScript to show key hints on hover, displaying the corresponding keyboard key above each piano key.
+
+## Feature
+
+- Polyphony: Allow multiple notes to be played simultaneously.
 
 ## Customization
 
