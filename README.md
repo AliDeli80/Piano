@@ -38,17 +38,17 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/ht
 
 ## How It Works
 
-### HTML Structure
+### HTML Structure:
 
 - Creates a piano keyboard using HTML div elements to represent keys.
 - Adds data attributes to each key, indicating the corresponding keyboard key.
 
-### CSS Styling
+### CSS Styling:
 
 - Styles the piano keys, giving them a realistic appearance.
 - Uses CSS transitions and animations to create key press and hover effects.
 
-### JavaScript Logic
+### JavaScript Logic:
 
 - Assigns sound files to each key.
 - Detects keypresses and mouse clicks.
