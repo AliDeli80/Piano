@@ -1,10 +1,10 @@
-## Project Title: 
+## Project Title
 
 JavaScript Piano
 
 <br>
 
-## Description:
+## Description
 
 A simple, interactive piano built with JavaScript and CSS.
 
@@ -16,7 +16,7 @@ A simple, interactive piano built with JavaScript and CSS.
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/html/index.html
 <br>
 
-## Feature:
+## Feature
 
 - Polyphony: Allow multiple notes to be played simultaneously.
 
