@@ -34,7 +34,7 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/ht
 ## How to Play
 
 - Keyboard: Press the corresponding keys on your keyboard to play notes.
-- Mouse: Click on the piano keys to play notes.
+- Mouse: Hover on the piano to see what key to press.
 
 ## How It Works
 
@@ -51,8 +51,8 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Piano/blob/master/ht
 ### JavaScript Logic:
 
 - Assigns sound files to each key.
-- Detects keypresses and mouse clicks.
-- Plays the corresponding sound when a key is pressed or clicked.
+- Detects keypresses.
+- Plays the corresponding sound when a key is pressed.
 - Adds visual feedback, such as key highlighting and animation, to indicate which key is being played.
 - Uses JavaScript to show key hints on hover, displaying the corresponding keyboard key above each piano key.
 
